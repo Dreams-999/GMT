@@ -7,3 +7,10 @@ p {
 body {
   background-color: coral;
 }
+.container {
+  max-width: 80em; 
+  height: 40em;
+  border: 1em solid;
+  padding: 0;
+}
+  
