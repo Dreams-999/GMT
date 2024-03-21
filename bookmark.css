@@ -5,12 +5,14 @@ p {
   color: lime;
 }
 body {
-  background-color: coral;
+  background-color: white;
 }
 .container {
   max-width: 80em; 
   height: 40em;
   border: 1em solid;
   padding: 0;
+  border-radius: 20px;
+  background-color: coral;
 }
   
