@@ -10,7 +10,7 @@ body {
 .container {
   max-width: 80em; 
   height: 40em;
-  border: 1em solid;
+  border: 10em solid;
   padding: 0;
   border-radius: 20px;
   background-color: coral;
