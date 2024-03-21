@@ -8,10 +8,18 @@ body {
   background-color: white;
 }
 .container {
-  max-width: 80em; 
-  height: 40em;
+  max-width: 40em; 
+  height: 30em;
   padding: 0;
   border-radius: 20px;
   background-color: coral;
+  margin: 0 auto;
 }
-  
+.container2 {
+  max-width: 40em;
+  height: 100em auto;
+  padding: 0;
+  border-radius: 20px
+  background-color: coral;
+  margin: 0 auto;
+}
